@@ -1,0 +1,17 @@
+
+@media (min-width : 0px) and (max-width : 400px){
+
+    #container__home{
+        padding-top: 0vh;
+    }
+}
+
+@media (min-width : 0px) and (max-width : 300px){
+
+    #img__home{
+
+        min-width: 80px;
+        max-width: 150px;
+
+    }
+}
